@@ -5,7 +5,7 @@
 <h2>Project Overview</h2>
 This project demonstrates a complete virtual Security Operations Center (SOC) lab environment, including Windows 10, Kali Linux, and Ubuntu Splunk Server VMs. It showcases attack simulations, centralized logging, detection engineering, alert creation, and dashboard visualization. 
 
-<h2>2.	Architecture Design:</h2>
+<h2>Architecture Design:</h2>
 
 Project Components:
 * Create Host-Only Network
